@@ -1,41 +1,46 @@
-# {{Nama Aplikasi}} ({{ Kode Project / tugas }})
- {{ Diskripsi Project }}
-### Screenshot
-{{ Letakan gambar aplikasi disini }}
 
-### Built With
-- {{ Komponen apa saja yang dikerjakan }}
+# {{nama_project}} ( {{kode_tugas}} )
+{{tentang_project}}.
 
-### Created By
-- {{ Nama Kelompok }}
-    - Halaman Login (2 poin)
-    - Fungsi Login (1 poin)
-    - Data Model (1 poin)
-- {{ Nama Kelompok }}
-    - Halaman Pencarian (3 poin)
-    - Fungsi Pencarian (2 poin)
-- {{ Nama Kelompok }}
-    - Design Pattern BLoC (3 poin)
-    - Fungsi REST API (2 poin)
-    - Fungsi CRUD SQLite (3 poin)
-- {{dst}}
----
-### Mata Kuliah 
-COE-5109 Pemprograman Mobile. 
-### Dosen
-Ary Budi Warsito, M.Kom
-### Matana University!
-- Visi 
-Menjadi perguruan tinggi terpercaya, berwawasan global, yang berperan dalam meningkatkan kualitas ilmu pengetahuan, yang merupakan Karunia Tuhan, untuk kesejahteraan umat manusia.
-- Misi 
-Menyiapkan dan mendidik generasi penerus menjadi sarjana yang penuh kasih dan ahli di bidangnya serta berjiwa entrepreneur, yang mampu berkiprah dalam dunia bisnis global.
+## Screenshot
+{{screenshot_project}}.
 
-### Info Lebih Lengkap
-Website : [http://matanauniversity.ac.id](http://matanauniversity.ac.id)  
-Email: [info@matanauniversity.ac.id](mailto:info@matanauniversity.ac.id)  
-Phone : (+62) 2923-2999 )  
-Alamat : Matana University Tower.Jl. CBD Barat Kav. 1. Gading Serpong Tangerang - 15810, Indonesia.
+## Built With
+{{teknologi_digunakan}}
 
----
+## Created By
+{{nama_peserta}}
 
-###### tags: `Sample` `Matana University` `Pemprograman Mobile ` `Tugas` 
+## {{jenis_kelas}} Eudeka!
+{{tentang_kelas}}.
+
+## {{nama_kelas}}
+Dengan jangka waktu lebih kurang {{waktu_kelas}}, peserta diharapkan dapat {{tujuan_kelas}}.
+
+## Cara Mendaftar {{jenis_kelas}}
+{{cara_daftar}}.
+
+## Info Lebih Lengkap
+Website : [www.eudeka.id](https://www.eudeka.id).  
+Twitter: [@EudekaID](https://twitter.com/EudekaID).  
+Telegram : [@eudekainfo](https://t.me/eudekainfo).  
+Instagram : [@eudeka.id](https://instagram.com/eudeka.id).  
+WhatsApp : [0895351577557](https://wa.me/62895351577557).  
+Email : [info@eudeka.id](mailto:info@eudeka.id).  
+
+[nama_project]: Peserta
+[tentang_project]: Peserta
+[screenshot_project]: Peserta
+[teknologi_digunakan]: Peserta
+[nama_peserta]: Peserta
+
+[kode_tugas]: Eudeka
+[jenis_kelas]: Eudeka
+[nama_kelas]: Eudeka
+[tentang_kelas]: Eudeka
+[waktu_kelas]: Eudeka
+[tujuan_kelas]: Eudeka
+[cara_daftar]: Eudeka
+[kode_kelas]: Eudeka
+
+###### tags: `Templates` `Eudeka`
